@@ -1,5 +1,5 @@
 <?php get_header();?>   <!--  Tells WordPress to include header.php -->
-<section class="container-fluid aboutbg text-center">
+ <section class="container-fluid aboutbg text-center">
         <div class="container">
 
             <h2>GAMES &amp; LEVEL DESIGNER</h2>
