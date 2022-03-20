@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="<?php bloginfo('sharset'); ?>">
+<meta charset="<?php bloginfo('charset'); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="Description" content="Enter your description here"/>
@@ -28,11 +28,10 @@
         bloginfo('name'); }
     if ($paged>1) {
        echo ' - page '. $paged; }
-       ?>
+ ?>
 </title>
 <meta name="description" content="<?php bloginfo('description'); ?>">
 <link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/images/favicon.ico">
-
 </head>
 <body>
 <header class="container-fluid bg1">
