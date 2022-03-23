@@ -65,7 +65,7 @@
           </ul>
         </div>
       </nav>
-<div class="smallpage-tag"><!-- div that holds the content in the middle of the page-->
+<div class="smallpage-title"><!-- div that holds the content in the middle of the page-->
       <h1 class="smallpage-title"> Projects</h1>
     </div>
     </div> <!-- container -->
