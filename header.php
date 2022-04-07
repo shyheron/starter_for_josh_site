@@ -66,6 +66,7 @@ wp_nav_menu( array(
       </nav>
 <div class="tag">
 <h1><?php the_field('maintagline'); ?></h1>
+</div>
     </div> <!-- container -->
     <?php wp_head(); ?> <!-- very important that this is added--> 
     </header>
